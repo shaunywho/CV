@@ -1,6 +1,5 @@
 ## Shaun Ho
-A recent graduate of the Makers bootcamp, having left a decade of working within the world of quantum technologies. I have experience in
-many facets of engineering. My work at Makers has allowed me to hone my skills in software which I plan on employing as a Junior developer
+A current student of the Makers bootcamp, having changed career path after a decade of working within the world of quantum technologies. I have experience in multiple types of engineering. My work at Makers will allow me to hone my skills in software which I plan on employing as a junior developer after the bootcamp ends. 
 
 
 ## Projects
@@ -33,7 +32,7 @@ I have several years of project management. As the technical lead of the project
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (June 2022 to October 2022)
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
 - e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
 - you might also mention aspects some other skills/knowledge listed below: 
@@ -42,18 +41,20 @@ I have several years of project management. As the technical lead of the project
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### University of Bristol (start_date to end_date)
+#### University of Bristol (2012 to 2017)
 
 - PhD Physics, Quantum Photonics
 - Pass
 
-#### University College London (start_date to end_date)
+#### University College London (2009 to 2012)
 - BSc Theoretical Physics
 - 1st Class Honours
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+- Piano 
+- Hand Percussions
+- Cooking
+- Running
+- Bouldering
+- Weightlifting
