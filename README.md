@@ -6,7 +6,7 @@ A current student of the Makers bootcamp, having changed career path after a dec
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
+| **Spotifive**            | A fun website to test your knowledge of popular music| Javscript, Ruby, ROR, HTML, CSS |
 | **gMOT**                     | Development of a table top instrument for the generation of cold atoms| Autodesk Inventor, EASYEDA, Arduino, SPICE, Python, Electrical measurement instruments|
 
 ## Work Experience
