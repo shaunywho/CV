@@ -1,5 +1,5 @@
 ## Shaun Ho
-A current student of the Makers bootcamp, having changed career path after a decade of working within the world of quantum technologies. I have experience in multiple types of engineering. My work at Makers will allow me to hone my skills in software which I plan on employing as a junior developer after the bootcamp ends. 
+A recent student of the Makers bootcamp, having changed career path after a decade of working within the world of quantum technologies. I have experience in multiple types of engineering. My work at Makers has allowed me to hone my skills in software which I plan on employing as a junior developer following the duration of the bootcamp
 
 
 ## Projects
