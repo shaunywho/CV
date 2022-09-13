@@ -33,14 +33,8 @@ I have several years of project management. As the technical lead of the project
 
 ## Education
 
-#### Makers Academy (June 2022 to October 2022)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+#### Makers Academy (June 2022 to September 2022)
+A 12 weeks intensive course I took to consolidate my understanding of programming and familiarise myself with aspects of web development and software engineering. Including principles of test-driven development, model-view-controller architecture.
 
 #### University of Bristol (2012 to 2017)
 
