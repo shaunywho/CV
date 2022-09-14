@@ -15,7 +15,7 @@ A recent student of the Makers bootcamp, having changed career path after a deca
 **University of Strathclyde/TMD Technologies** (2018 to 2022)  
 _Knowledge Transfer Partnership (KTP) Associate/Development Engineer_
 
-Technical lead for the R&D towards the creation of the gMOT - a miniaturised plug-and-play cold atom device. This work culminated in the development of a commercial tabletop device with integrated optical, vacuum, magnetic and electronic systems. This involved some development on python which includes the development of a hardware control tool and simulations for verification and validation activities. Furthermore, the device possessed an integrated PCB which was programmed in C++ using the Arduino framework.
+Technical lead for the R&D towards the creation of the gMOT - a miniaturised plug-and-play cold atom device. This work culminated in the development of a commercial tabletop device with integrated optical, vacuum, magnetic and electronic systems. This involved the use of python for the development of hardware control tools, and simulations and data analysis scripts for verification and validation activities. Furthermore, the device possessed an integrated PCB which was programmed in C++ using the Arduino framework.
 
 ## Skills
 
